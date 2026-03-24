@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Solqueflo Balley
 
-<!--
-**tru11y/Tru11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Python • SQL • Power BI • Machine Learning
 
-Here are some ideas to get you started:
+I transform raw data into actionable insights through analysis, visualization, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI
+- Data Visualization
+- Machine Learning
+
+## 📊 Projects
+
+### 🔹 Customer Churn Prediction
+- Built ML model to predict customer churn
+- Identified key factors influencing churn
+- Business insights for retention strategies
+
+### 🔹 Sales Dashboard (Power BI)
+- Interactive dashboard with KPIs
+- Business performance tracking
+
+### 🔹 E-commerce Data Analysis
+- Analysis of large transactional dataset
+- Customer behavior insights
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/solqueflo-balley
+- GitHub: https://github.com/Tru11y
