@@ -29,3 +29,4 @@ I transform raw data into actionable insights through analysis, visualization, a
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/solqueflo-balley
 - GitHub: https://github.com/Tru11y
+- Mail: Solqueflo.balley@epitech.eu
